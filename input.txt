@@ -7,3 +7,10 @@ t → 7
 0–9
 00–99
 000–999
+admin
+password
+root
+guest
+welcome
+qwerty
+and many more
